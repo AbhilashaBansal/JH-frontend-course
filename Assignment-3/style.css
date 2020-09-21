@@ -1,0 +1,34 @@
+body{
+	background-color: antiquewhite;
+}
+
+#navigation-bar{
+	background-color: burlywood;
+	padding: 15px;
+	border-bottom: 2px solid saddlebrown;
+}
+
+#nav-list li{
+	background-color: seashell;
+	border: 1px solid saddlebrown;
+	font-size: 20px;
+}
+
+#nav-list li > a{
+	color: sienna;
+}
+
+#heading{
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+#Chicken, #Beef, #Sushi{
+	background-color: burlywood;
+	border: 1px solid saddlebrown;
+	margin-bottom: 25px;
+	padding: 5px;
+}
+#Chicken1 {
+
+}
