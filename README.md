@@ -1,2 +1,2 @@
 # JH-frontend-course
-assignments for frontend web development course 
+assignments for Johns Hopkins frontend web development course 
